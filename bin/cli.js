@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+﻿#!/usr/bin/env node
 
 import { getAllTasks } from '../index.js';
 
@@ -13,4 +13,5 @@ tasks.forEach((t, i) => {
 });
 
 console.log(`\n\x1b[35mDetailed DIY cost guides & step-by-step checklists:\x1b[0m`);
-console.log(`\x1b[4mhttps://fixcosthome.com\x1b[0m\n`);
+console.log(`\x1b[4mhttps://www.fixcosthome.com\x1b[0m\n`);
+

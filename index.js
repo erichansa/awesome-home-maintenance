@@ -1,7 +1,7 @@
-/**
+﻿/**
  * home-maintenance-schedule
  * Smart checklists and interval guidelines for homeowners
- * https://fixcosthome.com
+ * https://www.fixcosthome.com
  */
 
 export const MAINTENANCE_TASKS = [
@@ -13,7 +13,7 @@ export const MAINTENANCE_TASKS = [
     task: "Replace or clean HVAC air filters",
     importance: "High",
     estimatedSavings: "$60 - $180 / year on energy bills",
-    guideUrl: "https://fixcosthome.com"
+    guideUrl: "https://www.fixcosthome.com"
   },
   {
     id: "water-heater-flush",
@@ -23,7 +23,7 @@ export const MAINTENANCE_TASKS = [
     task: "Flush water heater tank to remove sediment and inspect anode rod",
     importance: "Critical",
     estimatedSavings: "$1,200+ by extending tank lifespan by 4-6 years",
-    guideUrl: "https://fixcosthome.com"
+    guideUrl: "https://www.fixcosthome.com"
   },
   {
     id: "gutter-downspout-clear",
@@ -33,7 +33,7 @@ export const MAINTENANCE_TASKS = [
     task: "Clear debris from roof gutters and verify downspouts discharge 6ft away",
     importance: "Critical",
     estimatedSavings: "$3,000 - $10,000 avoiding foundation water damage",
-    guideUrl: "https://fixcosthome.com"
+    guideUrl: "https://www.fixcosthome.com"
   },
   {
     id: "refrigerator-coil-clean",
@@ -43,7 +43,7 @@ export const MAINTENANCE_TASKS = [
     task: "Vacuum dust from refrigerator condenser coils and check door gasket seals",
     importance: "Medium",
     estimatedSavings: "$35 - $80 / year on electricity and prevents compressor burnout",
-    guideUrl: "https://fixcosthome.com"
+    guideUrl: "https://www.fixcosthome.com"
   },
   {
     id: "smoke-co-detector-test",
@@ -53,7 +53,7 @@ export const MAINTENANCE_TASKS = [
     task: "Test smoke and carbon monoxide detectors; replace 9V backup batteries annually",
     importance: "Critical (Life Safety)",
     estimatedSavings: "Priceless",
-    guideUrl: "https://fixcosthome.com"
+    guideUrl: "https://www.fixcosthome.com"
   }
 ];
 
@@ -72,3 +72,4 @@ export default {
   getTasksBySeason,
   getAllTasks
 };
+

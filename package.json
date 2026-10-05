@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "home-maintenance-schedule",
   "version": "1.0.0",
   "type": "module",
@@ -17,14 +17,14 @@
     "fixcosthome",
     "cost-saving"
   ],
-  "author": "FixCostHome.com <support@fixcosthome.com> (https://fixcosthome.com)",
-  "homepage": "https://fixcosthome.com",
+  "author": "FixCostHome.com <support@fixcosthome.com> (https://www.fixcosthome.com)",
+  "homepage": "https://www.fixcosthome.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/erichansa/home-maintenance-schedule"
   },
   "bugs": {
-    "url": "https://fixcosthome.com"
+    "url": "https://www.fixcosthome.com"
   },
   "license": "MIT",
   "files": [
@@ -34,3 +34,4 @@
     "README.md"
   ]
 }
+
